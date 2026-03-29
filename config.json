@@ -5,5 +5,5 @@
     "responseContentType": "text/xml; charset=UTF-8",
     "allowedOrigins": "*",
     "domainName": "test.example.com",
-    "withoutPort80forLetsEncrypt": true
+    "withoutPort80forLetsEncrypt": false
 }
